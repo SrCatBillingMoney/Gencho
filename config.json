@@ -1,15 +1,15 @@
 {
-    "guild-id": "",
-    "token": "",
-    "premium-role-id": "",
+    "guild-id": "1193031274286292992",
+    "token": "MTIwMjA1NTU0Nzg1MTkwMzAzNg.GjvNgE.m0io07N_-4miLvzSO-AXn-1upOV7JNfhjmJ6YE",
+    "premium-role-id": "1202052778525200426",
     "premium-cooldown": true,
     "premium-cooldown-duration": 3,
     "cooldown-duration": 10,
     "admin-cooldown": true,
     "logs-switch": true,
-    "logs-channel-id": "",
+    "logs-channel-id": "1202055249318383696",
     "channel-specific-switch": true,
-    "premium-channel-id": "",
+    "premium-channel-id": "1202055033496289390",
     "free-channel-id": "",
     "messages": {
         "not-supported-channel": "No se puede generar en este canal",
@@ -18,6 +18,6 @@
         "stock-description": "Todas las cuentas disponibles.",
         "stock-empty-description": "No hay stock.",
         "no-permissions": "No tienes acceso a este comando.",
-        "embed-footer": "Cambiar por tu nombre de server"
+        "embed-footer": "discord.gg/aeolouscm"
     }
 }
